@@ -139402,6 +139402,31 @@ GROUP FMS L Power
           OFFSET_X -275
           OFFSET_Y -24.000000
 
+        gen_text FMS_R_fms1_Line01_L
+          POS 370.500000 1735.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.red
+          DATAREF laminar/B747/fms1/Line01_R_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms1_Line01_L
+          POS 370.500000 1735.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.amber
+          DATAREF laminar/B747/fms1/Line01_A_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 370.500000 1702.500000
           IMAGE FMS Displays/TEXT/TXT.fms.38_2.white
@@ -139437,6 +139462,31 @@ GROUP FMS L Power
           KEY_FRAME 1.000000 1.000000
           OFFSET_X -275
           OFFSET_Y -24.000000
+
+        gen_text FMS_R_fms1_Line02_L
+          POS 370.500000 1702.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.red
+          DATAREF laminar/B747/fms1/Line02_R_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms1_Line02_L
+          POS 370.500000 1702.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.amber
+          DATAREF laminar/B747/fms1/Line02_A_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
 
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 370.500000 1669.500000
@@ -139474,6 +139524,31 @@ GROUP FMS L Power
           OFFSET_X -275
           OFFSET_Y -24.000000
 
+        gen_text FMS_R_fms1_Line03_L
+          POS 370.500000 1669.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.red
+          DATAREF laminar/B747/fms1/Line03_R_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms1_Line03_L
+          POS 370.500000 1669.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.amber
+          DATAREF laminar/B747/fms1/Line03_A_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 370.500000 1636.500000
           IMAGE FMS Displays/TEXT/TXT.fms.38_2.white
@@ -139509,6 +139584,31 @@ GROUP FMS L Power
           KEY_FRAME 1.000000 1.000000
           OFFSET_X -275
           OFFSET_Y -24.000000
+
+        gen_text FMS_R_fms1_Line04_L
+          POS 370.500000 1636.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.red
+          DATAREF laminar/B747/fms1/Line04_R_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms1_Line04_L
+          POS 370.500000 1636.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.amber
+          DATAREF laminar/B747/fms1/Line04_A_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
 
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 370.500000 1603.500000
@@ -139546,6 +139646,31 @@ GROUP FMS L Power
           OFFSET_X -275
           OFFSET_Y -24.000000
 
+        gen_text FMS_R_fms1_Line05_L
+          POS 370.500000 1603.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.red
+          DATAREF laminar/B747/fms1/Line05_R_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms1_Line05_L
+          POS 370.500000 1603.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.amber
+          DATAREF laminar/B747/fms1/Line05_A_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 370.500000 1570.500000
           IMAGE FMS Displays/TEXT/TXT.fms.38_2.white
@@ -139581,6 +139706,31 @@ GROUP FMS L Power
           KEY_FRAME 1.000000 1.000000
           OFFSET_X -275
           OFFSET_Y -24.000000
+
+        gen_text FMS_R_fms1_Line06_L
+          POS 370.500000 1570.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.red
+          DATAREF laminar/B747/fms1/Line06_R_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms1_Line06_L
+          POS 370.500000 1570.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.amber
+          DATAREF laminar/B747/fms1/Line06_A_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
 
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 370.500000 1537.500000
@@ -139618,6 +139768,31 @@ GROUP FMS L Power
           OFFSET_X -275
           OFFSET_Y -24.000000
 
+        gen_text FMS_R_fms1_Line07_L
+          POS 370.500000 1537.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.red
+          DATAREF laminar/B747/fms1/Line07_R_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms1_Line07_L
+          POS 370.500000 1537.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.amber
+          DATAREF laminar/B747/fms1/Line07_A_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 370.500000 1503.500000
           IMAGE FMS Displays/TEXT/TXT.fms.38_2.white
@@ -139653,6 +139828,31 @@ GROUP FMS L Power
           KEY_FRAME 1.000000 1.000000
           OFFSET_X -275
           OFFSET_Y -24.000000
+
+        gen_text FMS_R_fms1_Line08_L
+          POS 370.500000 1503.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.red
+          DATAREF laminar/B747/fms1/Line08_R_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms1_Line08_L
+          POS 370.500000 1503.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.amber
+          DATAREF laminar/B747/fms1/Line08_A_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
 
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 370.500000 1469.500000
@@ -139690,6 +139890,31 @@ GROUP FMS L Power
           OFFSET_X -275
           OFFSET_Y -24.000000
 
+        gen_text FMS_R_fms1_Line09_L
+          POS 370.500000 1469.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.red
+          DATAREF laminar/B747/fms1/Line09_R_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms1_Line09_L
+          POS 370.500000 1469.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.amber
+          DATAREF laminar/B747/fms1/Line09_A_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 370.500000 1435.500000
           IMAGE FMS Displays/TEXT/TXT.fms.38_2.white
@@ -139725,6 +139950,31 @@ GROUP FMS L Power
           KEY_FRAME 1.000000 1.000000
           OFFSET_X -275
           OFFSET_Y -24.000000
+
+        gen_text FMS_R_fms1_Line10_L
+          POS 370.500000 1435.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.red
+          DATAREF laminar/B747/fms1/Line10_R_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms1_Line10_L
+          POS 370.500000 1435.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.amber
+          DATAREF laminar/B747/fms1/Line10_A_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
 
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 370.500000 1401.500000
@@ -139762,6 +140012,31 @@ GROUP FMS L Power
           OFFSET_X -275
           OFFSET_Y -24.000000
 
+        gen_text FMS_R_fms1_Line11_L
+          POS 370.500000 1401.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.red
+          DATAREF laminar/B747/fms1/Line11_R_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms1_Line11_L
+          POS 370.500000 1401.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.amber
+          DATAREF laminar/B747/fms1/Line11_A_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 370.500000 1367.500000
           IMAGE FMS Displays/TEXT/TXT.fms.38_2.white
@@ -139797,6 +140072,31 @@ GROUP FMS L Power
           KEY_FRAME 1.000000 1.000000
           OFFSET_X -275
           OFFSET_Y -24.000000
+
+        gen_text FMS_R_fms1_Line12_L
+          POS 370.500000 1367.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.red
+          DATAREF laminar/B747/fms1/Line12_R_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms1_Line12_L
+          POS 370.500000 1367.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.amber
+          DATAREF laminar/B747/fms1/Line12_A_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
 
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 370.500000 1333.500000
@@ -139834,6 +140134,31 @@ GROUP FMS L Power
           OFFSET_X -275
           OFFSET_Y -24.000000
 
+        gen_text FMS_R_fms1_Line13_L
+          POS 370.500000 1333.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.red
+          DATAREF laminar/B747/fms1/Line13_R_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms1_Line13_L
+          POS 370.500000 1333.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.amber
+          DATAREF laminar/B747/fms1/Line13_A_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 370.500000 1299.500000
           IMAGE FMS Displays/TEXT/TXT.fms.38_2.white
@@ -139869,6 +140194,31 @@ GROUP FMS L Power
           KEY_FRAME 1.000000 1.000000
           OFFSET_X -275
           OFFSET_Y -24.000000
+
+        gen_text FMS_R_fms1_Line14_L
+          POS 370.500000 1299.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.red
+          DATAREF laminar/B747/fms1/Line14_R_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms1_Line14_L
+          POS 370.500000 1299.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.amber
+          DATAREF laminar/B747/fms1/Line14_A_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
 
         gen_text FMS_AMBER_fms1_Line14_L
           POS 370.500000 1299.500000
@@ -139920,6 +140270,31 @@ GROUP FMS L Power
           OFFSET_X -275
           OFFSET_Y -24.000000
 
+        gen_text FMS_R_fms1_Line01_S
+          POS 370.500000 1738.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.red
+          DATAREF laminar/B747/fms1/Line01_R_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms1_Line01_S
+          POS 370.500000 1738.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.amber
+          DATAREF laminar/B747/fms1/Line01_A_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 370.500000 1705.000000
           IMAGE FMS Displays/TEXT/TXT.fms.34_2.white
@@ -139955,6 +140330,31 @@ GROUP FMS L Power
           KEY_FRAME 1.000000 1.000000
           OFFSET_X -275
           OFFSET_Y -24.000000
+
+        gen_text FMS_R_fms1_Line02_S
+          POS 370.500000 1705.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.red
+          DATAREF laminar/B747/fms1/Line02_R_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms1_Line02_S
+          POS 370.500000 1705.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.amber
+          DATAREF laminar/B747/fms1/Line02_A_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
 
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 370.500000 1672.000000
@@ -139992,6 +140392,31 @@ GROUP FMS L Power
           OFFSET_X -275
           OFFSET_Y -24.000000
 
+        gen_text FMS_R_fms1_Line03_S
+          POS 370.500000 1672.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.red
+          DATAREF laminar/B747/fms1/Line03_R_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms1_Line03_S
+          POS 370.500000 1672.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.amber
+          DATAREF laminar/B747/fms1/Line03_A_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 370.500000 1639.000000
           IMAGE FMS Displays/TEXT/TXT.fms.34_2.white
@@ -140027,6 +140452,31 @@ GROUP FMS L Power
           KEY_FRAME 1.000000 1.000000
           OFFSET_X -275
           OFFSET_Y -24.000000
+
+        gen_text FMS_R_fms1_Line04_S
+          POS 370.500000 1639.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.red
+          DATAREF laminar/B747/fms1/Line04_R_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms1_Line04_S
+          POS 370.500000 1639.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.amber
+          DATAREF laminar/B747/fms1/Line04_A_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
 
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 370.500000 1606.000000
@@ -140064,6 +140514,31 @@ GROUP FMS L Power
           OFFSET_X -275
           OFFSET_Y -24.000000
 
+        gen_text FMS_R_fms1_Line05_S
+          POS 370.500000 1606.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.red
+          DATAREF laminar/B747/fms1/Line05_R_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms1_Line05_S
+          POS 370.500000 1606.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.amber
+          DATAREF laminar/B747/fms1/Line05_A_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 370.500000 1573.000000
           IMAGE FMS Displays/TEXT/TXT.fms.34_2.white
@@ -140099,6 +140574,31 @@ GROUP FMS L Power
           KEY_FRAME 1.000000 1.000000
           OFFSET_X -275
           OFFSET_Y -24.000000
+
+        gen_text FMS_R_fms1_Line06_S
+          POS 370.500000 1573.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.red
+          DATAREF laminar/B747/fms1/Line06_R_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms1_Line06_S
+          POS 370.500000 1573.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.amber
+          DATAREF laminar/B747/fms1/Line06_A_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
 
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 370.500000 1540.000000
@@ -140136,6 +140636,31 @@ GROUP FMS L Power
           OFFSET_X -275
           OFFSET_Y -24.000000
 
+        gen_text FMS_R_fms1_Line07_S
+          POS 370.500000 1540.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.red
+          DATAREF laminar/B747/fms1/Line07_R_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms1_Line07_S
+          POS 370.500000 1540.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.amber
+          DATAREF laminar/B747/fms1/Line07_A_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 370.500000 1506.000000
           IMAGE FMS Displays/TEXT/TXT.fms.34_2.white
@@ -140171,6 +140696,31 @@ GROUP FMS L Power
           KEY_FRAME 1.000000 1.000000
           OFFSET_X -275
           OFFSET_Y -24.000000
+
+        gen_text FMS_R_fms1_Line08_S
+          POS 370.500000 1506.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.red
+          DATAREF laminar/B747/fms1/Line08_R_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms1_Line08_S
+          POS 370.500000 1506.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.amber
+          DATAREF laminar/B747/fms1/Line08_A_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
 
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 370.500000 1472.000000
@@ -140208,6 +140758,31 @@ GROUP FMS L Power
           OFFSET_X -275
           OFFSET_Y -24.000000
 
+        gen_text FMS_R_fms1_Line09_S
+          POS 370.500000 1472.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.red
+          DATAREF laminar/B747/fms1/Line09_R_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms1_Line09_S
+          POS 370.500000 1472.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.amber
+          DATAREF laminar/B747/fms1/Line09_A_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 370.500000 1438.000000
           IMAGE FMS Displays/TEXT/TXT.fms.34_2.white
@@ -140243,6 +140818,31 @@ GROUP FMS L Power
           KEY_FRAME 1.000000 1.000000
           OFFSET_X -275
           OFFSET_Y -24.000000
+
+        gen_text FMS_R_fms1_Line10_S
+          POS 370.500000 1438.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.red
+          DATAREF laminar/B747/fms1/Line10_R_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms1_Line10_S
+          POS 370.500000 1438.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.amber
+          DATAREF laminar/B747/fms1/Line10_A_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
 
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 370.500000 1404.000000
@@ -140280,6 +140880,31 @@ GROUP FMS L Power
           OFFSET_X -275
           OFFSET_Y -24.000000
 
+        gen_text FMS_R_fms1_Line11_S
+          POS 370.500000 1404.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.red
+          DATAREF laminar/B747/fms1/Line11_R_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms1_Line11_S
+          POS 370.500000 1404.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.amber
+          DATAREF laminar/B747/fms1/Line11_A_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 370.500000 1370.000000
           IMAGE FMS Displays/TEXT/TXT.fms.34_2.white
@@ -140315,6 +140940,31 @@ GROUP FMS L Power
           KEY_FRAME 1.000000 1.000000
           OFFSET_X -275
           OFFSET_Y -24.000000
+
+        gen_text FMS_R_fms1_Line12_S
+          POS 370.500000 1370.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.red
+          DATAREF laminar/B747/fms1/Line12_R_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms1_Line12_S
+          POS 370.500000 1370.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.amber
+          DATAREF laminar/B747/fms1/Line12_A_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
 
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 370.500000 1336.000000
@@ -140352,6 +141002,31 @@ GROUP FMS L Power
           OFFSET_X -275
           OFFSET_Y -24.000000
 
+        gen_text FMS_R_fms1_Line13_S
+          POS 370.500000 1336.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.red
+          DATAREF laminar/B747/fms1/Line13_R_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms1_Line13_S
+          POS 370.500000 1336.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.amber
+          DATAREF laminar/B747/fms1/Line13_A_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 370.500000 1302.000000
           IMAGE FMS Displays/TEXT/TXT.fms.34_2.white
@@ -140387,6 +141062,31 @@ GROUP FMS L Power
           KEY_FRAME 1.000000 1.000000
           OFFSET_X -275
           OFFSET_Y -24.000000
+
+        gen_text FMS_R_fms1_Line14_S
+          POS 370.500000 1302.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.red
+          DATAREF laminar/B747/fms1/Line14_R_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms1_Line14_S
+          POS 370.500000 1302.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.amber
+          DATAREF laminar/B747/fms1/Line14_A_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
 
       END_GROUP
     END_GROUP
@@ -140475,6 +141175,31 @@ GROUP FMS R
           OFFSET_X -275
           OFFSET_Y -24.000000
 
+        gen_text FMS_R_fms2_Line01_L
+          POS 1046.500000 1735.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.red
+          DATAREF laminar/B747/fms2/Line01_R_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 13
+          BUS_SRC 4
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms2_Line01_L
+          POS 1046.500000 1735.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.amber
+          DATAREF laminar/B747/fms2/Line01_A_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 13
+          BUS_SRC 4
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 1046.500000 1702.500000
           IMAGE FMS Displays/TEXT/TXT.fms.38_2.white
@@ -140510,6 +141235,31 @@ GROUP FMS R
           KEY_FRAME 1.000000 1.000000
           OFFSET_X -275
           OFFSET_Y -24.000000
+
+        gen_text FMS_R_fms2_Line02_L
+          POS 1046.500000 1702.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.red
+          DATAREF laminar/B747/fms2/Line02_R_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 13
+          BUS_SRC 4
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms2_Line02_L
+          POS 1046.500000 1702.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.amber
+          DATAREF laminar/B747/fms2/Line02_A_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 13
+          BUS_SRC 4
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
 
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 1046.500000 1669.500000
@@ -140547,6 +141297,31 @@ GROUP FMS R
           OFFSET_X -275
           OFFSET_Y -24.000000
 
+        gen_text FMS_R_fms2_Line03_L
+          POS 1046.500000 1669.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.red
+          DATAREF laminar/B747/fms2/Line03_R_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 13
+          BUS_SRC 4
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms2_Line03_L
+          POS 1046.500000 1669.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.amber
+          DATAREF laminar/B747/fms2/Line03_A_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 13
+          BUS_SRC 4
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 1046.500000 1636.500000
           IMAGE FMS Displays/TEXT/TXT.fms.38_2.white
@@ -140582,6 +141357,31 @@ GROUP FMS R
           KEY_FRAME 1.000000 1.000000
           OFFSET_X -275
           OFFSET_Y -24.000000
+
+        gen_text FMS_R_fms2_Line04_L
+          POS 1046.500000 1636.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.red
+          DATAREF laminar/B747/fms2/Line04_R_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 13
+          BUS_SRC 4
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms2_Line04_L
+          POS 1046.500000 1636.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.amber
+          DATAREF laminar/B747/fms2/Line04_A_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 13
+          BUS_SRC 4
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
 
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 1046.500000 1603.500000
@@ -140619,6 +141419,31 @@ GROUP FMS R
           OFFSET_X -275
           OFFSET_Y -24.000000
 
+        gen_text FMS_R_fms2_Line05_L
+          POS 1046.500000 1603.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.red
+          DATAREF laminar/B747/fms2/Line05_R_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 13
+          BUS_SRC 4
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms2_Line05_L
+          POS 1046.500000 1603.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.amber
+          DATAREF laminar/B747/fms2/Line05_A_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 13
+          BUS_SRC 4
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 1046.500000 1570.500000
           IMAGE FMS Displays/TEXT/TXT.fms.38_2.white
@@ -140654,6 +141479,31 @@ GROUP FMS R
           KEY_FRAME 1.000000 1.000000
           OFFSET_X -275
           OFFSET_Y -24.000000
+
+        gen_text FMS_R_fms2_Line06_L
+          POS 1046.500000 1570.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.red
+          DATAREF laminar/B747/fms2/Line06_R_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 13
+          BUS_SRC 4
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms2_Line06_L
+          POS 1046.500000 1570.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.amber
+          DATAREF laminar/B747/fms2/Line06_A_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 13
+          BUS_SRC 4
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
 
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 1046.500000 1537.500000
@@ -140691,6 +141541,31 @@ GROUP FMS R
           OFFSET_X -275
           OFFSET_Y -24.000000
 
+        gen_text FMS_R_fms2_Line07_L
+          POS 1046.500000 1537.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.red
+          DATAREF laminar/B747/fms2/Line07_R_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 13
+          BUS_SRC 4
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms2_Line07_L
+          POS 1046.500000 1537.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.amber
+          DATAREF laminar/B747/fms2/Line07_A_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 13
+          BUS_SRC 4
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 1046.500000 1503.500000
           IMAGE FMS Displays/TEXT/TXT.fms.38_2.white
@@ -140726,6 +141601,31 @@ GROUP FMS R
           KEY_FRAME 1.000000 1.000000
           OFFSET_X -275
           OFFSET_Y -24.000000
+
+        gen_text FMS_R_fms2_Line08_L
+          POS 1046.500000 1503.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.red
+          DATAREF laminar/B747/fms2/Line08_R_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 13
+          BUS_SRC 4
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms2_Line08_L
+          POS 1046.500000 1503.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.amber
+          DATAREF laminar/B747/fms2/Line08_A_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 13
+          BUS_SRC 4
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
 
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 1046.500000 1469.500000
@@ -140763,6 +141663,31 @@ GROUP FMS R
           OFFSET_X -275
           OFFSET_Y -24.000000
 
+        gen_text FMS_R_fms2_Line09_L
+          POS 1046.500000 1469.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.red
+          DATAREF laminar/B747/fms2/Line09_R_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 13
+          BUS_SRC 4
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms2_Line09_L
+          POS 1046.500000 1469.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.amber
+          DATAREF laminar/B747/fms2/Line09_A_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 13
+          BUS_SRC 4
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 1046.500000 1435.500000
           IMAGE FMS Displays/TEXT/TXT.fms.38_2.white
@@ -140798,6 +141723,31 @@ GROUP FMS R
           KEY_FRAME 1.000000 1.000000
           OFFSET_X -275
           OFFSET_Y -24.000000
+
+        gen_text FMS_R_fms2_Line10_L
+          POS 1046.500000 1435.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.red
+          DATAREF laminar/B747/fms2/Line10_R_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 13
+          BUS_SRC 4
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms2_Line10_L
+          POS 1046.500000 1435.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.amber
+          DATAREF laminar/B747/fms2/Line10_A_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 13
+          BUS_SRC 4
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
 
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 1046.500000 1401.500000
@@ -140835,6 +141785,31 @@ GROUP FMS R
           OFFSET_X -275
           OFFSET_Y -24.000000
 
+        gen_text FMS_R_fms2_Line11_L
+          POS 1046.500000 1401.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.red
+          DATAREF laminar/B747/fms2/Line11_R_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 13
+          BUS_SRC 4
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms2_Line11_L
+          POS 1046.500000 1401.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.amber
+          DATAREF laminar/B747/fms2/Line11_A_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 13
+          BUS_SRC 4
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 1046.500000 1367.500000
           IMAGE FMS Displays/TEXT/TXT.fms.38_2.white
@@ -140870,6 +141845,31 @@ GROUP FMS R
           KEY_FRAME 1.000000 1.000000
           OFFSET_X -275
           OFFSET_Y -24.000000
+
+        gen_text FMS_R_fms2_Line12_L
+          POS 1046.500000 1367.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.red
+          DATAREF laminar/B747/fms2/Line12_R_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 13
+          BUS_SRC 4
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms2_Line12_L
+          POS 1046.500000 1367.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.amber
+          DATAREF laminar/B747/fms2/Line12_A_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 13
+          BUS_SRC 4
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
 
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 1046.500000 1333.500000
@@ -140907,6 +141907,31 @@ GROUP FMS R
           OFFSET_X -275
           OFFSET_Y -24.000000
 
+        gen_text FMS_R_fms2_Line13_L
+          POS 1046.500000 1333.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.red
+          DATAREF laminar/B747/fms2/Line13_R_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 13
+          BUS_SRC 4
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms2_Line13_L
+          POS 1046.500000 1333.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.amber
+          DATAREF laminar/B747/fms2/Line13_A_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 13
+          BUS_SRC 4
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 1046.500000 1299.500000
           IMAGE FMS Displays/TEXT/TXT.fms.38_2.white
@@ -140942,6 +141967,31 @@ GROUP FMS R
           KEY_FRAME 1.000000 1.000000
           OFFSET_X -275
           OFFSET_Y -24.000000
+
+        gen_text FMS_R_fms2_Line14_L
+          POS 1046.500000 1299.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.red
+          DATAREF laminar/B747/fms2/Line14_R_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 13
+          BUS_SRC 4
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms2_Line14_L
+          POS 1046.500000 1299.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.amber
+          DATAREF laminar/B747/fms2/Line14_A_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 13
+          BUS_SRC 4
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
 
         gen_text FMS_AMBER_fms2_Line14_L
           POS 1046.500000 1299.500000
@@ -140993,6 +142043,31 @@ GROUP FMS R
           OFFSET_X -275
           OFFSET_Y -24.000000
 
+        gen_text FMS_R_fms2_Line01_S
+          POS 1046.500000 1738.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.red
+          DATAREF laminar/B747/fms2/Line01_R_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 13
+          BUS_SRC 4
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms2_Line01_S
+          POS 1046.500000 1738.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.amber
+          DATAREF laminar/B747/fms2/Line01_A_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 13
+          BUS_SRC 4
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 1046.500000 1705.000000
           IMAGE FMS Displays/TEXT/TXT.fms.34_2.white
@@ -141028,6 +142103,31 @@ GROUP FMS R
           KEY_FRAME 1.000000 1.000000
           OFFSET_X -275
           OFFSET_Y -24.000000
+
+        gen_text FMS_R_fms2_Line02_S
+          POS 1046.500000 1705.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.red
+          DATAREF laminar/B747/fms2/Line02_R_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 13
+          BUS_SRC 4
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms2_Line02_S
+          POS 1046.500000 1705.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.amber
+          DATAREF laminar/B747/fms2/Line02_A_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 13
+          BUS_SRC 4
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
 
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 1046.500000 1672.000000
@@ -141065,6 +142165,31 @@ GROUP FMS R
           OFFSET_X -275
           OFFSET_Y -24.000000
 
+        gen_text FMS_R_fms2_Line03_S
+          POS 1046.500000 1672.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.red
+          DATAREF laminar/B747/fms2/Line03_R_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 13
+          BUS_SRC 4
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms2_Line03_S
+          POS 1046.500000 1672.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.amber
+          DATAREF laminar/B747/fms2/Line03_A_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 13
+          BUS_SRC 4
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 1046.500000 1639.000000
           IMAGE FMS Displays/TEXT/TXT.fms.34_2.white
@@ -141100,6 +142225,31 @@ GROUP FMS R
           KEY_FRAME 1.000000 1.000000
           OFFSET_X -275
           OFFSET_Y -24.000000
+
+        gen_text FMS_R_fms2_Line04_S
+          POS 1046.500000 1639.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.red
+          DATAREF laminar/B747/fms2/Line04_R_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 13
+          BUS_SRC 4
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms2_Line04_S
+          POS 1046.500000 1639.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.amber
+          DATAREF laminar/B747/fms2/Line04_A_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 13
+          BUS_SRC 4
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
 
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 1046.500000 1606.000000
@@ -141137,6 +142287,31 @@ GROUP FMS R
           OFFSET_X -275
           OFFSET_Y -24.000000
 
+        gen_text FMS_R_fms2_Line05_S
+          POS 1046.500000 1606.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.red
+          DATAREF laminar/B747/fms2/Line05_R_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 13
+          BUS_SRC 4
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms2_Line05_S
+          POS 1046.500000 1606.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.amber
+          DATAREF laminar/B747/fms2/Line05_A_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 13
+          BUS_SRC 4
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 1046.500000 1573.000000
           IMAGE FMS Displays/TEXT/TXT.fms.34_2.white
@@ -141172,6 +142347,31 @@ GROUP FMS R
           KEY_FRAME 1.000000 1.000000
           OFFSET_X -275
           OFFSET_Y -24.000000
+
+        gen_text FMS_R_fms2_Line06_S
+          POS 1046.500000 1573.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.red
+          DATAREF laminar/B747/fms2/Line06_R_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 13
+          BUS_SRC 4
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms2_Line06_S
+          POS 1046.500000 1573.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.amber
+          DATAREF laminar/B747/fms2/Line06_A_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 13
+          BUS_SRC 4
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
 
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 1046.500000 1540.000000
@@ -141209,6 +142409,31 @@ GROUP FMS R
           OFFSET_X -275
           OFFSET_Y -24.000000
 
+        gen_text FMS_R_fms2_Line07_S
+          POS 1046.500000 1540.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.red
+          DATAREF laminar/B747/fms2/Line07_R_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 13
+          BUS_SRC 4
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms2_Line07_S
+          POS 1046.500000 1540.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.amber
+          DATAREF laminar/B747/fms2/Line07_A_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 13
+          BUS_SRC 4
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 1046.500000 1506.000000
           IMAGE FMS Displays/TEXT/TXT.fms.34_2.white
@@ -141244,6 +142469,31 @@ GROUP FMS R
           KEY_FRAME 1.000000 1.000000
           OFFSET_X -275
           OFFSET_Y -24.000000
+
+        gen_text FMS_R_fms2_Line08_S
+          POS 1046.500000 1506.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.red
+          DATAREF laminar/B747/fms2/Line08_R_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 13
+          BUS_SRC 4
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms2_Line08_S
+          POS 1046.500000 1506.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.amber
+          DATAREF laminar/B747/fms2/Line08_A_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 13
+          BUS_SRC 4
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
 
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 1046.500000 1472.000000
@@ -141281,6 +142531,31 @@ GROUP FMS R
           OFFSET_X -275
           OFFSET_Y -24.000000
 
+        gen_text FMS_R_fms2_Line09_S
+          POS 1046.500000 1472.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.red
+          DATAREF laminar/B747/fms2/Line09_R_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 13
+          BUS_SRC 4
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms2_Line09_S
+          POS 1046.500000 1472.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.amber
+          DATAREF laminar/B747/fms2/Line09_A_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 13
+          BUS_SRC 4
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 1046.500000 1438.000000
           IMAGE FMS Displays/TEXT/TXT.fms.34_2.white
@@ -141316,6 +142591,31 @@ GROUP FMS R
           KEY_FRAME 1.000000 1.000000
           OFFSET_X -275
           OFFSET_Y -24.000000
+
+        gen_text FMS_R_fms2_Line10_S
+          POS 1046.500000 1438.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.red
+          DATAREF laminar/B747/fms2/Line10_R_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 13
+          BUS_SRC 4
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms2_Line10_S
+          POS 1046.500000 1438.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.amber
+          DATAREF laminar/B747/fms2/Line10_A_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 13
+          BUS_SRC 4
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
 
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 1046.500000 1404.000000
@@ -141353,6 +142653,31 @@ GROUP FMS R
           OFFSET_X -275
           OFFSET_Y -24.000000
 
+        gen_text FMS_R_fms2_Line11_S
+          POS 1046.500000 1404.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.red
+          DATAREF laminar/B747/fms2/Line11_R_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 13
+          BUS_SRC 4
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms2_Line11_S
+          POS 1046.500000 1404.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.amber
+          DATAREF laminar/B747/fms2/Line11_A_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 13
+          BUS_SRC 4
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 1046.500000 1370.000000
           IMAGE FMS Displays/TEXT/TXT.fms.34_2.white
@@ -141388,6 +142713,31 @@ GROUP FMS R
           KEY_FRAME 1.000000 1.000000
           OFFSET_X -275
           OFFSET_Y -24.000000
+
+        gen_text FMS_R_fms2_Line12_S
+          POS 1046.500000 1370.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.red
+          DATAREF laminar/B747/fms2/Line12_R_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 13
+          BUS_SRC 4
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms2_Line12_S
+          POS 1046.500000 1370.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.amber
+          DATAREF laminar/B747/fms2/Line12_A_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 13
+          BUS_SRC 4
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
 
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 1046.500000 1336.000000
@@ -141425,6 +142775,31 @@ GROUP FMS R
           OFFSET_X -275
           OFFSET_Y -24.000000
 
+        gen_text FMS_R_fms2_Line13_S
+          POS 1046.500000 1336.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.red
+          DATAREF laminar/B747/fms2/Line13_R_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 13
+          BUS_SRC 4
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms2_Line13_S
+          POS 1046.500000 1336.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.amber
+          DATAREF laminar/B747/fms2/Line13_A_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 13
+          BUS_SRC 4
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 1046.500000 1302.000000
           IMAGE FMS Displays/TEXT/TXT.fms.34_2.white
@@ -141460,6 +142835,31 @@ GROUP FMS R
           KEY_FRAME 1.000000 1.000000
           OFFSET_X -275
           OFFSET_Y -24.000000
+
+        gen_text FMS_R_fms2_Line14_S
+          POS 1046.500000 1302.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.red
+          DATAREF laminar/B747/fms2/Line14_R_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 13
+          BUS_SRC 4
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms2_Line14_S
+          POS 1046.500000 1302.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.amber
+          DATAREF laminar/B747/fms2/Line14_A_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 13
+          BUS_SRC 4
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
 
       END_GROUP
     END_GROUP
@@ -141528,6 +142928,31 @@ GROUP FMS C Power
           OFFSET_X -275
           OFFSET_Y -24.000000
 
+        gen_text FMS_R_fms3_Line01_L
+          POS 1700.500000 1735.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.red
+          DATAREF laminar/B747/fms3/Line01_R_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms3_Line01_L
+          POS 1700.500000 1735.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.amber
+          DATAREF laminar/B747/fms3/Line01_A_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 1700.500000 1702.500000
           IMAGE FMS Displays/TEXT/TXT.fms.38_2.white
@@ -141563,6 +142988,31 @@ GROUP FMS C Power
           KEY_FRAME 1.000000 1.000000
           OFFSET_X -275
           OFFSET_Y -24.000000
+
+        gen_text FMS_R_fms3_Line02_L
+          POS 1700.500000 1702.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.red
+          DATAREF laminar/B747/fms3/Line02_R_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms3_Line02_L
+          POS 1700.500000 1702.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.amber
+          DATAREF laminar/B747/fms3/Line02_A_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
 
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 1700.500000 1669.500000
@@ -141600,6 +143050,31 @@ GROUP FMS C Power
           OFFSET_X -275
           OFFSET_Y -24.000000
 
+        gen_text FMS_R_fms3_Line03_L
+          POS 1700.500000 1669.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.red
+          DATAREF laminar/B747/fms3/Line03_R_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms3_Line03_L
+          POS 1700.500000 1669.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.amber
+          DATAREF laminar/B747/fms3/Line03_A_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 1700.500000 1636.500000
           IMAGE FMS Displays/TEXT/TXT.fms.38_2.white
@@ -141635,6 +143110,31 @@ GROUP FMS C Power
           KEY_FRAME 1.000000 1.000000
           OFFSET_X -275
           OFFSET_Y -24.000000
+
+        gen_text FMS_R_fms3_Line04_L
+          POS 1700.500000 1636.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.red
+          DATAREF laminar/B747/fms3/Line04_R_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms3_Line04_L
+          POS 1700.500000 1636.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.amber
+          DATAREF laminar/B747/fms3/Line04_A_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
 
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 1700.500000 1603.500000
@@ -141672,6 +143172,31 @@ GROUP FMS C Power
           OFFSET_X -275
           OFFSET_Y -24.000000
 
+        gen_text FMS_R_fms3_Line05_L
+          POS 1700.500000 1603.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.red
+          DATAREF laminar/B747/fms3/Line05_R_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms3_Line05_L
+          POS 1700.500000 1603.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.amber
+          DATAREF laminar/B747/fms3/Line05_A_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 1700.500000 1570.500000
           IMAGE FMS Displays/TEXT/TXT.fms.38_2.white
@@ -141707,6 +143232,31 @@ GROUP FMS C Power
           KEY_FRAME 1.000000 1.000000
           OFFSET_X -275
           OFFSET_Y -24.000000
+
+        gen_text FMS_R_fms3_Line06_L
+          POS 1700.500000 1570.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.red
+          DATAREF laminar/B747/fms3/Line06_R_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms3_Line06_L
+          POS 1700.500000 1570.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.amber
+          DATAREF laminar/B747/fms3/Line06_A_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
 
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 1700.500000 1537.500000
@@ -141744,6 +143294,31 @@ GROUP FMS C Power
           OFFSET_X -275
           OFFSET_Y -24.000000
 
+        gen_text FMS_R_fms3_Line07_L
+          POS 1700.500000 1537.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.red
+          DATAREF laminar/B747/fms3/Line07_R_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms3_Line07_L
+          POS 1700.500000 1537.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.amber
+          DATAREF laminar/B747/fms3/Line07_A_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 1700.500000 1503.500000
           IMAGE FMS Displays/TEXT/TXT.fms.38_2.white
@@ -141779,6 +143354,31 @@ GROUP FMS C Power
           KEY_FRAME 1.000000 1.000000
           OFFSET_X -275
           OFFSET_Y -24.000000
+
+        gen_text FMS_R_fms3_Line08_L
+          POS 1700.500000 1503.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.red
+          DATAREF laminar/B747/fms3/Line08_R_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms3_Line08_L
+          POS 1700.500000 1503.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.amber
+          DATAREF laminar/B747/fms3/Line08_A_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
 
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 1700.500000 1469.500000
@@ -141816,6 +143416,31 @@ GROUP FMS C Power
           OFFSET_X -275
           OFFSET_Y -24.000000
 
+        gen_text FMS_R_fms3_Line09_L
+          POS 1700.500000 1469.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.red
+          DATAREF laminar/B747/fms3/Line09_R_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms3_Line09_L
+          POS 1700.500000 1469.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.amber
+          DATAREF laminar/B747/fms3/Line09_A_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 1700.500000 1435.500000
           IMAGE FMS Displays/TEXT/TXT.fms.38_2.white
@@ -141851,6 +143476,31 @@ GROUP FMS C Power
           KEY_FRAME 1.000000 1.000000
           OFFSET_X -275
           OFFSET_Y -24.000000
+
+        gen_text FMS_R_fms3_Line10_L
+          POS 1700.500000 1435.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.red
+          DATAREF laminar/B747/fms3/Line10_R_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms3_Line10_L
+          POS 1700.500000 1435.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.amber
+          DATAREF laminar/B747/fms3/Line10_A_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
 
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 1700.500000 1401.500000
@@ -141888,6 +143538,31 @@ GROUP FMS C Power
           OFFSET_X -275
           OFFSET_Y -24.000000
 
+        gen_text FMS_R_fms3_Line11_L
+          POS 1700.500000 1401.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.red
+          DATAREF laminar/B747/fms3/Line11_R_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms3_Line11_L
+          POS 1700.500000 1401.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.amber
+          DATAREF laminar/B747/fms3/Line11_A_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 1700.500000 1367.500000
           IMAGE FMS Displays/TEXT/TXT.fms.38_2.white
@@ -141923,6 +143598,31 @@ GROUP FMS C Power
           KEY_FRAME 1.000000 1.000000
           OFFSET_X -275
           OFFSET_Y -24.000000
+
+        gen_text FMS_R_fms3_Line12_L
+          POS 1700.500000 1367.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.red
+          DATAREF laminar/B747/fms3/Line12_R_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms3_Line12_L
+          POS 1700.500000 1367.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.amber
+          DATAREF laminar/B747/fms3/Line12_A_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
 
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 1700.500000 1333.500000
@@ -141960,6 +143660,31 @@ GROUP FMS C Power
           OFFSET_X -275
           OFFSET_Y -24.000000
 
+        gen_text FMS_R_fms3_Line13_L
+          POS 1700.500000 1333.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.red
+          DATAREF laminar/B747/fms3/Line13_R_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms3_Line13_L
+          POS 1700.500000 1333.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.amber
+          DATAREF laminar/B747/fms3/Line13_A_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 1700.500000 1299.500000
           IMAGE FMS Displays/TEXT/TXT.fms.38_2.white
@@ -141995,6 +143720,31 @@ GROUP FMS C Power
           KEY_FRAME 1.000000 1.000000
           OFFSET_X -275
           OFFSET_Y -24.000000
+
+        gen_text FMS_R_fms3_Line14_L
+          POS 1700.500000 1299.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.red
+          DATAREF laminar/B747/fms3/Line14_R_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms3_Line14_L
+          POS 1700.500000 1299.500000
+          IMAGE FMS Displays/TEXT/TXT.fms.38_2.amber
+          DATAREF laminar/B747/fms3/Line14_A_L
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
 
         gen_text FMS_AMBER_fms3_Line14_L
           POS 1700.500000 1299.500000
@@ -142046,6 +143796,31 @@ GROUP FMS C Power
           OFFSET_X -275
           OFFSET_Y -24.000000
 
+        gen_text FMS_R_fms3_Line01_S
+          POS 1700.500000 1738.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.red
+          DATAREF laminar/B747/fms3/Line01_R_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms3_Line01_S
+          POS 1700.500000 1738.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.amber
+          DATAREF laminar/B747/fms3/Line01_A_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 1700.500000 1705.000000
           IMAGE FMS Displays/TEXT/TXT.fms.34_2.white
@@ -142081,6 +143856,31 @@ GROUP FMS C Power
           KEY_FRAME 1.000000 1.000000
           OFFSET_X -275
           OFFSET_Y -24.000000
+
+        gen_text FMS_R_fms3_Line02_S
+          POS 1700.500000 1705.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.red
+          DATAREF laminar/B747/fms3/Line02_R_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms3_Line02_S
+          POS 1700.500000 1705.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.amber
+          DATAREF laminar/B747/fms3/Line02_A_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
 
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 1700.500000 1672.000000
@@ -142118,6 +143918,31 @@ GROUP FMS C Power
           OFFSET_X -275
           OFFSET_Y -24.000000
 
+        gen_text FMS_R_fms3_Line03_S
+          POS 1700.500000 1672.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.red
+          DATAREF laminar/B747/fms3/Line03_R_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms3_Line03_S
+          POS 1700.500000 1672.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.amber
+          DATAREF laminar/B747/fms3/Line03_A_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 1700.500000 1639.000000
           IMAGE FMS Displays/TEXT/TXT.fms.34_2.white
@@ -142153,6 +143978,31 @@ GROUP FMS C Power
           KEY_FRAME 1.000000 1.000000
           OFFSET_X -275
           OFFSET_Y -24.000000
+
+        gen_text FMS_R_fms3_Line04_S
+          POS 1700.500000 1639.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.red
+          DATAREF laminar/B747/fms3/Line04_R_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms3_Line04_S
+          POS 1700.500000 1639.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.amber
+          DATAREF laminar/B747/fms3/Line04_A_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
 
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 1700.500000 1606.000000
@@ -142190,6 +144040,31 @@ GROUP FMS C Power
           OFFSET_X -275
           OFFSET_Y -24.000000
 
+        gen_text FMS_R_fms3_Line05_S
+          POS 1700.500000 1606.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.red
+          DATAREF laminar/B747/fms3/Line05_R_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms3_Line05_S
+          POS 1700.500000 1606.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.amber
+          DATAREF laminar/B747/fms3/Line05_A_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 1700.500000 1573.000000
           IMAGE FMS Displays/TEXT/TXT.fms.34_2.white
@@ -142225,6 +144100,31 @@ GROUP FMS C Power
           KEY_FRAME 1.000000 1.000000
           OFFSET_X -275
           OFFSET_Y -24.000000
+
+        gen_text FMS_R_fms3_Line06_S
+          POS 1700.500000 1573.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.red
+          DATAREF laminar/B747/fms3/Line06_R_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms3_Line06_S
+          POS 1700.500000 1573.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.amber
+          DATAREF laminar/B747/fms3/Line06_A_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
 
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 1700.500000 1540.000000
@@ -142262,6 +144162,31 @@ GROUP FMS C Power
           OFFSET_X -275
           OFFSET_Y -24.000000
 
+        gen_text FMS_R_fms3_Line07_S
+          POS 1700.500000 1540.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.red
+          DATAREF laminar/B747/fms3/Line07_R_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms3_Line07_S
+          POS 1700.500000 1540.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.amber
+          DATAREF laminar/B747/fms3/Line07_A_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 1700.500000 1506.000000
           IMAGE FMS Displays/TEXT/TXT.fms.34_2.white
@@ -142297,6 +144222,31 @@ GROUP FMS C Power
           KEY_FRAME 1.000000 1.000000
           OFFSET_X -275
           OFFSET_Y -24.000000
+
+        gen_text FMS_R_fms3_Line08_S
+          POS 1700.500000 1506.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.red
+          DATAREF laminar/B747/fms3/Line08_R_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms3_Line08_S
+          POS 1700.500000 1506.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.amber
+          DATAREF laminar/B747/fms3/Line08_A_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
 
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 1700.500000 1472.000000
@@ -142334,6 +144284,31 @@ GROUP FMS C Power
           OFFSET_X -275
           OFFSET_Y -24.000000
 
+        gen_text FMS_R_fms3_Line09_S
+          POS 1700.500000 1472.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.red
+          DATAREF laminar/B747/fms3/Line09_R_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms3_Line09_S
+          POS 1700.500000 1472.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.amber
+          DATAREF laminar/B747/fms3/Line09_A_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 1700.500000 1438.000000
           IMAGE FMS Displays/TEXT/TXT.fms.34_2.white
@@ -142369,6 +144344,31 @@ GROUP FMS C Power
           KEY_FRAME 1.000000 1.000000
           OFFSET_X -275
           OFFSET_Y -24.000000
+
+        gen_text FMS_R_fms3_Line10_S
+          POS 1700.500000 1438.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.red
+          DATAREF laminar/B747/fms3/Line10_R_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms3_Line10_S
+          POS 1700.500000 1438.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.amber
+          DATAREF laminar/B747/fms3/Line10_A_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
 
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 1700.500000 1404.000000
@@ -142406,6 +144406,31 @@ GROUP FMS C Power
           OFFSET_X -275
           OFFSET_Y -24.000000
 
+        gen_text FMS_R_fms3_Line11_S
+          POS 1700.500000 1404.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.red
+          DATAREF laminar/B747/fms3/Line11_R_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms3_Line11_S
+          POS 1700.500000 1404.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.amber
+          DATAREF laminar/B747/fms3/Line11_A_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 1700.500000 1370.000000
           IMAGE FMS Displays/TEXT/TXT.fms.34_2.white
@@ -142441,6 +144466,31 @@ GROUP FMS C Power
           KEY_FRAME 1.000000 1.000000
           OFFSET_X -275
           OFFSET_Y -24.000000
+
+        gen_text FMS_R_fms3_Line12_S
+          POS 1700.500000 1370.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.red
+          DATAREF laminar/B747/fms3/Line12_R_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms3_Line12_S
+          POS 1700.500000 1370.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.amber
+          DATAREF laminar/B747/fms3/Line12_A_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
 
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 1700.500000 1336.000000
@@ -142478,6 +144528,31 @@ GROUP FMS C Power
           OFFSET_X -275
           OFFSET_Y -24.000000
 
+        gen_text FMS_R_fms3_Line13_S
+          POS 1700.500000 1336.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.red
+          DATAREF laminar/B747/fms3/Line13_R_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms3_Line13_S
+          POS 1700.500000 1336.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.amber
+          DATAREF laminar/B747/fms3/Line13_A_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+
         gen_text XXXXXXXXXXXXXXXXXXX
           POS 1700.500000 1302.000000
           IMAGE FMS Displays/TEXT/TXT.fms.34_2.white
@@ -142513,6 +144588,31 @@ GROUP FMS C Power
           KEY_FRAME 1.000000 1.000000
           OFFSET_X -275
           OFFSET_Y -24.000000
+
+        gen_text FMS_R_fms3_Line14_S
+          POS 1700.500000 1302.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.red
+          DATAREF laminar/B747/fms3/Line14_R_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
+        gen_text FMS_A_fms3_Line14_S
+          POS 1700.500000 1302.000000
+          IMAGE FMS Displays/TEXT/TXT.fms.34_2.amber
+          DATAREF laminar/B747/fms3/Line14_A_S
+          LIGHT_MODE GLASS_AUTO
+          LIGHT_RHEOSTAT 12
+          BUS_SRC 2
+          KEY_FRAME 0.000000 0.000000 1.000000
+          KEY_FRAME 1.000000 1.000000
+          OFFSET_X -275
+          OFFSET_Y -24.000000
+
 
       END_GROUP
     END_GROUP
